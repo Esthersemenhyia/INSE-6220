@@ -1,4 +1,4 @@
-age,hypertension,heart_disease,bmi,HbA1c_level,blood_glucose_level,class
+class,hypertension,heart_disease,bmi,HbA1c_level,blood_glucose_level,diabetes
 80,0,1,25.19,6.6,140,0
 54,0,0,27.32,6.6,80,0
 28,0,0,27.32,5.7,158,0
@@ -248,8 +248,3 @@ age,hypertension,heart_disease,bmi,HbA1c_level,blood_glucose_level,class
 74,0,0,27.32,6,159,0
 48,0,0,27.32,6.6,160,0
 17,0,0,20.38,6.6,160,0
-59,0,0,22.35,4.8,155,0
-30,0,0,29.34,6.6,140,0
-17,0,0,24.88,5.7,158,0
-9,0,0,20.56,5.8,200,0
-64,0,0,27.32,6.2,155,1
